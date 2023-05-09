@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Poppins&display=swap');
+
+.mainone {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+
+    position: absolute;
+    width: 1359px;
+    height: 612px;
+    left: 37px;
+    top: 710px;
+
+}
+
+.mainone>h3 {
+    position: relative;
+    left: 35px;
+    font-size: 35px;
+    top: -25px;
+    color: #DB4444;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+#redrect {
+    width: 20px;
+    height: 40px;
+    position: relative;
+    top: 95px
+}
+
+.flash {
+    font-size: 50px;
+    position: relative;
+    top: -90px;
+    font-family: 'Inter', sans-serif;
+
+}
+
+#demo {
+    font-size: 30px;
+}
+
+.timer {
+    position: relative;
+    left: 80px;
+    top: -345px;
+}
+
+#ProductComponent {
+    display: flex;
+    gap: 50px;
+}
+
+.viewallproducts {
+    height: 30px;
+}

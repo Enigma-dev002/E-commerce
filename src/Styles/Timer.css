@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Poppins&display=swap');
+
+.countdowntimer {
+    position: relative;
+    width: 302px;
+    height: 50px;
+    left: 330px;
+    top: 66px;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.dy {
+    font-family: 'Inter', sans-serif;
+}
+
+.hr {
+    position: relative;
+    left: 13px;
+    font-family: 'Inter', sans-serif;
+}
+
+.min {
+    position: relative;
+    left: 23px;
+    font-family: 'Inter', sans-serif;
+}
+
+.sec {
+    position: relative;
+    left: 33px;
+    font-family: 'Inter', sans-serif;
+}
+
+#c1 {
+    color: #DB4444;
+    position: relative;
+    top: -5px;
+    font-size: 50px;
+    font-weight: 200;
+    left: 3px;
+
+}
+
+#c2 {
+    color: #DB4444;
+    position: relative;
+    top: -5px;
+    font-size: 50px;
+    font-weight: 200;
+    left: 13px;
+
+}
+
+#c3 {
+    color: #DB4444;
+    position: relative;
+    top: -5px;
+    font-size: 50px;
+    font-weight: 200;
+    left: 23px;
+
+}
+
+.strings {
+    position: relative;
+    left: 330px;
+    display: flex;
+    top: 80px;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+#id2 {
+    position: relative;
+    left: 50px;
+}
+
+#id3 {
+    position: relative;
+    left: 90px;
+}
+
+#id4 {
+    position: relative;
+    left: 120px;
+}

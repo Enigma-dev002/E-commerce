@@ -1,0 +1,22 @@
+.App{
+    position: relative;
+    left: 350px;
+    top: 185px;
+    height: 367px;
+    width: 898px;
+}
+img{
+    height: 500px;
+    width: 800px;
+    
+}
+
+.slider-control-centerleft>button{
+    display: none;
+}
+.slider-control-centerright>button{
+    display: none;
+}
+.slider-control-bottomcenter>ul>li>button{
+    fill: white;
+}

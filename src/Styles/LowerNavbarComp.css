@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700;800&family=Poppins:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700;800&family=Poppins:wght@200;300;400&display=swap');
+
+.LowerNavbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 148px;
+
+    position: absolute;
+    width: 1170px;
+    height: 38px;
+    left: 135px;
+    top: 76px;
+}
+
+#ex {
+    font-family: 'Inter', sans-serif;
+}
+
+.home {
+    position: relative;
+    right: 60px;
+    background: none;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact {
+    position: relative;
+    right: 150px;
+    background: none;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.about {
+    position: relative;
+    right: 240px;
+    background: none;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.signup {
+    position: relative;
+    right: 330px;
+    background: none;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.srch {
+    position: relative;
+    right: 390px;
+    border-radius: 12px;
+    text-align: center;
+
+}
+
+.srchbtn {
+    position: relative;
+    right: 530px;
+    background: none;
+    border: none;
+}
+
+.searchimg {
+    width: 25px;
+    height: 25px;
+}
+
+.favbtn {
+    position: relative;
+    right: 630px;
+    background: none;
+    border: none;
+}
+
+.cartbtn {
+    position: relative;
+    right: 750px;
+    background: none;
+    border: none;
+}
+
+.favimg {
+    width: 40px;
+    height: 40px;
+}
+
+.cartimg {
+    width: 30px;
+    height: 30px;
+}
