@@ -1,0 +1,49 @@
+#Border {
+    box-sizing: border-box;
+    width: 170px;
+    height: 145px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    display: flex;
+}
+
+#ProductImage {
+    width: 56px;
+    height: 56px;
+    position: relative;
+    left: 55px;
+    top: 25px;
+
+}
+
+#Category {
+    
+    
+    /* Title/16PX Regular */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+    
+}
+
+#categorytext {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 80px;
+    right: 26px;
+}
+
+.DescComp {
+    box-sizing: border-box;
+
+    width: 170px;
+    height: 145px;
+
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+
+}

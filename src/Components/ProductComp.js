@@ -23,8 +23,8 @@ export default function ProductComp(props) {
 
                 </div>
                 <h2 className="ProdDesc">{props.proddesc}</h2>
-                <h2 className="oldprice">${props.oldprice}</h2>
-                <h2 className="newprice">${props.newprice}</h2>
+                <h2 className="oldprice">{props.oldprice}</h2>
+                <h2 className="newprice">{props.newprice}</h2>
                 <ReactStars />
                 <h2 className="ratingnumber">({props.prodrating})</h2>
             </div>

@@ -57,5 +57,78 @@
 }
 
 .viewallproducts {
-    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 48px;
+    gap: 10px;
+    width: 234px;
+    height: 56px;
+
+    position: relative;
+    top: -200px;
+    left: 460px;
+
+    /* Button2 */
+
+    background: #DB4444;
+    border-radius: 4px;
+    border: none;
+}
+
+.Btntext {
+    width: 138px;
+    height: 24px;
+
+    /* Title/16PX Medium */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+
+    /* Text */
+
+    color: #FAFAFA;
+
+}
+
+#ProductDescription {
+    display: flex;
+    gap: 50px;
+    position: relative;
+    top: -40px;
+}
+
+.viewallbtn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 48px;
+    gap: 10px;
+    width: 234px;
+    height: 56px;
+
+    position: relative;
+    top: -270px;
+    left: 1000px;
+
+    /* Button2 */
+
+    background: #DB4444;
+    border-radius: 4px;
+    border: none;
+}
+
+.TempImage {
+    position: relative;
+    width: 1170px;
+    height: 500px;
+    top: -70px;
+
 }
